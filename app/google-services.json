@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219333213742",
+    "project_id": "gopedia-c5a67",
+    "storage_bucket": "gopedia-c5a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219333213742:android:990944e2cc9343553ee9bf",
+        "android_client_info": {
+          "package_name": "com.example.gopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219333213742-10hnepdoo5rg2293m3v1cirnrq3kq7h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8haHDWthdEbnT1N1FOqEizMEBWpwLS70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219333213742-10hnepdoo5rg2293m3v1cirnrq3kq7h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
